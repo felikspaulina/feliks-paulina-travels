@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "updatedAt": null,
+  "visited": [
+    "POL",
+    "ITA",
+    "VAT",
+    "TUR",
+    "EGY"
+  ],
+  "wishlist": [
+    "ESP"
+  ],
+  "details": {
+    "POL": {
+      "date": "2002-01-01",
+      "note": "Polska — mieszkamy tu od urodzenia (2002). Data orientacyjna."
+    },
+    "TUR": {
+      "date": "2024-08-08",
+      "note": "Bodrum · 8–15 sierpnia 2024 · Club Paloma Family."
+    },
+    "ITA": {
+      "date": "2024-09-06",
+      "note": "Rzym · 6–12 września 2024."
+    },
+    "VAT": {
+      "date": "2024-09-06",
+      "note": "Watykan odwiedzony podczas wyjazdu do Rzymu (6–12 września 2024)."
+    },
+    "EGY": {
+      "date": "2025-08-26",
+      "note": "Sharm El Sheikh · 26 sierpnia – 3 września 2025 · Aurora Oriental Resort."
+    }
+  }
+}
